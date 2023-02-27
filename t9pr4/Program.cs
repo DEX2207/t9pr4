@@ -27,6 +27,8 @@ namespace t9pr4
             }
             Console.WriteLine($"Кол-во чисел, кратное трем, равно {a}");
             Console.ReadLine();
+            //2
+
         }
     }
 }
